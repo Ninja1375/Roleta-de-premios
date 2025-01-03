@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animação de Roleta de Prêmios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>   
+    <div class="folha">
+        <div class="seta"></div>
+        <div class="roleta" id="roleta">
+            <div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+            <div class="box4"></div>
+            <div class="box5"></div>
+            <div class="box6"></div>
+            <div class="box7"></div>
+            <div class="box8"></div>
+            
+            <div class="premio premio1" id="opt1">100 reais</div>
+            <div class="premio premio2" id="opt0">110 reais</div>
+            <div class="premio premio3" id="opt7">115 reais</div>
+            <div class="premio premio4" id="opt6">120 reais</div>
+            <div class="premio premio5" id="opt5">125 reais</div>
+            <div class="premio premio6" id="opt4">130 reais</div>
+            <div class="premio premio7" id="opt3">140 reais</div>
+            <div class="premio premio8" id="opt2">150 reais</div>
+            
+            <div id="btnPlay" class="btnRoleta play" onclick="playOnClick()">►</div>
+            <div id="btnStop" class="btnRoleta stop" onclick="stopOnClick()">❚❚</div>
+        </div>
+    </div>
+    <p id="msgGanhador"></p>
+    <script src="script.js"></script>
+</body>
+</html>
