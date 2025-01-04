@@ -47,11 +47,7 @@ roleta-de-premios/
 
 ## Demonstração 
 
-
-
-https://github.com/user-attachments/assets/557796d8-2ef9-4af8-aeae-544e90b5a047
-
-
+<video src="https://github.com/user-attachments/assets/557796d8-2ef9-4af8-aeae-544e90b5a047" controls width="400"></video>
 
 ## Contribuições
 
