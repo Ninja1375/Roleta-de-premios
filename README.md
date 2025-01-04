@@ -4,7 +4,7 @@ Projeto de uma animação interativa de uma roleta de prêmios, desenvolvida com
 
 ## veja no YouTube 
 
-[![Roleta de Prêmios](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
+[![Roleta de Prêmios](https://img.youtube.com/vi/mIT4R9X78qA/maxresdefault.jpg)](https://www.youtube.com/watch?v=mIT4R9X78qA)  
 
 ## Descrição
 
