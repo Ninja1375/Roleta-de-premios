@@ -2,6 +2,10 @@
 
 Projeto de uma animação interativa de uma roleta de prêmios, desenvolvida com **HTML**, **CSS** e **JavaScript**. 
 
+## veja no YouTube 
+
+[![Roleta de Prêmios](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
+
 ## Descrição
 
 O projeto consiste em uma roleta colorida com oito seções de prêmios que gira ao clicar no botão "Play" e para aleatoriamente, determinando o prêmio do jogador. A lógica de funcionamento é implementada em JavaScript, enquanto o design e a animação são feitos com HTML e CSS.
